@@ -43,9 +43,10 @@ It will be logged in Console(local) and log file as well.
       - "timestamp" : "2020-08-11 03:42:23.500"
       - "level" : "info"
       - "Service" : "CityLookUp"
-      - "TraceId" : "3e0294a632d3503d" (Sluuth Id)                  
+      - "TraceId" : "3e0294a632d3503d" (Sleuth Id)                  
       - "x-api-id" : "1234567890" (which will come from API gateway)
       - "Resource" : "URI's" (/connect)
+      - "Cities" : "Boston - NewYork"
       - "Class" : ""Name of the class is being invoked.
       - "message" : ""to be printed from log.info()
 
