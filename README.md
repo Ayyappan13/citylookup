@@ -19,7 +19,7 @@ If two cities have been mapped in the "city.txt" file, then it will return "yes"
   
 ## Steps
  - Download this application from below GitHug link and import as Maven project.
-   - <GitHub>
+   - https://github.com/Ayyappan13/citylookup
  - After successfully imported, run the application.
  - city.txt file is available in "resource folder". 
     -  /resources/config/city.txt
