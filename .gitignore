@@ -1,3 +1,15 @@
 
 .DS_Store
-.idea/.name
+.idea/*
+HELP.md
+LOG_PATH_IS_UNDEFINED/springAppName_IS_UNDEFINED.log
+mvnw*
+citylookup.iml
+logs/CityLookUp.log
+target/citylookup-0.0.1-SNAPSHOT.jar
+target/citylookup-0.0.1-SNAPSHOT.jar.original
+*.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
